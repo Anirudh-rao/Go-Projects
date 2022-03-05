@@ -6,10 +6,13 @@ import (
 )
 
 func main() {
+	//Creates a Chan named messages
 	messages := make(chan string)
 
+	//Routine to recive channel indicated by <- sign
 	go func() { messages <- "ping" }()
 
+	// <- is  used to indicate reciving the channel
 	msg := <-messages
 	fmt.Println(msg)
 }
