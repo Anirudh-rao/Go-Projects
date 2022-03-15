@@ -29,9 +29,15 @@ Disadvantages:
 Some popular Applications developed in Go Language
 
 Docker: a set of tools for deploying linux containers
+
 Openshift: a cloud computing platform as a service by Red Hat.
+
 Kubernetes: The future of seamlessly automated deployment processes
+
 Dropbox: migrated some of their critical components from Python to Go.
+
 Netflix: for two part of their server architecture.
+
 InfluxDB: is an open-source time series database developed by InfluxData.
-Golang: The language itself was written in Go.
+
+
