@@ -13,18 +13,18 @@ A third-party source-to-source compiler, GopherJS compiles Go to JavaScript for 
 
 Advantages:  
 
-Flexible- It is concise, simple and easy to read.
-Concurrency- It allows multiple process running simultaneously and effectively.
-Quick Outcome- Its compilation time is very fast.
-Library- It provides a rich standard library.
-Garbage collection- It is a key feature of go. Go excels in giving a lot of control over memory allocation and has dramatically reduced latency in the most recent versions of the garbage collector.
-It validates for the interface and type embedding.
+1. Flexible- It is concise, simple and easy to read.
+2. Concurrency- It allows multiple process running simultaneously and effectively.
+3. Quick Outcome- Its compilation time is very fast.
+4. Library- It provides a rich standard library.
+5. Garbage collection- It is a key feature of go. Go excels in giving a lot of control over memory allocation and has dramatically reduced latency in the most recent versions of   the garbage collector.
+6. It validates for the interface and type embedding.
 
 Disadvantages:  
 
-It has no support for generics, even if there are many discussions about it.
-The packages distributed with this programming language is quite useful but Go is not so object-oriented in the conventional sense.
-There is absence of some libraries especially a UI tool kit.
+1. It has no support for generics, even if there are many discussions about it.
+2. The packages distributed with this programming language is quite useful but Go is not so object-oriented in the conventional sense.
+3. There is absence of some libraries especially a UI tool kit.
 
 Some popular Applications developed in Go Language
 
